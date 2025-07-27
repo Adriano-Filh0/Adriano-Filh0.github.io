@@ -1,7 +1,7 @@
-baseURL: https://Adriano-Filh0.github.io
+baseURL: https://adriano-filh0.github.io/
 
-languageCode: bn
-title: "John's Blog"
+languageCode: en
+title: "Adriano Filho"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Adriano Filho"
     weight: 1
   bn:
     languageCode: bn
